@@ -14,10 +14,6 @@ body {
   min-height: 100vh;
 }
 
-p {
-  box-align: center;
-}
-
 #header {
   text-align: center;
   margin: 3rem auto;
@@ -87,8 +83,6 @@ p {
   font-size: 0.85rem;
   color: #c2e9e0;
 }
-
-
 
 .center {
   text-align: center;
